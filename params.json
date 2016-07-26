@@ -1,5 +1,5 @@
 {
-  "name": "Homebrew Tap for telsockets on OS X",
+  "name": "Homebrew Tap for telsocket on OS X",
   "tagline": "Telnet for websockets on OS X.",
   "body": "# Readme\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
