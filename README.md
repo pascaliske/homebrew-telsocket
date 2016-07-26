@@ -1,4 +1,4 @@
-# Homebrew tap for telsocket
+# Homebrew Tap for telsocket
 A telnet like tool for websockets (v1.0.0) by [Khalid Lafi](https://github.com/lafikl).
 
 You can install this library with [Homebrew](http://brew.sh).
