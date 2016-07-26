@@ -1,6 +1,6 @@
 {
   "name": "Homebrew Tap for telsocket on OS X",
   "tagline": "Telnet for websockets on OS X.",
-  "body": "# Readme\r\n",
+  "body": "# Homebrew tap for telsocket\r\nA telnet like tool for websockets (v1.0.0) by [Khalid Lafi](https://github.com/lafikl).\r\n\r\nYou can install this library with [Homebrew](http://brew.sh).\r\n\r\n## Install homebrew\r\n- Go to http://brew.sh/ for installation instructions\r\n\r\n## Install telsocket\r\n- Tap this repo `$ brew tap pascaliske/telsocket`\r\n- Install telsocket v1.0.0 `$ brew install telsocket`\r\n\r\n## Credits\r\nThis repo only contains a homebrew formula for installing the telsocket tool from [Khalid Lafi](https://github.com/lafikl). Check out his project at Github [here](https://github.com/lafikl/telsocket/)!\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
